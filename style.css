@@ -1,0 +1,27 @@
+.main{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+#debugger{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: grey;
+    color: #fff;
+    padding: 2rem;
+    width: 20rem;
+}
+.magneto{
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    border: none;
+    background-color: grey;
+    color: #fff;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
